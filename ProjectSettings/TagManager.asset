@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - ParticleTag
+  - ParticleSphere
+  - SPHCollider
+  - Anchor
+  - FlameTrigger
+  - TubeTrigger
+  - MetalObject
+  - SnapZoneTermit
+  - MgSparkle
+  - CandleFlame
+  - SpoonTriggerHand
+  - FeMotarTrigger
+  - AlMotarTrigger
+  - FePeace
+  - AlPeace
+  - TermitMotarTrigger
+  - FinalTrigger
+  - SparkleEffectTrigger
+  - HCL_Trigger
+  - Dropper
+  - DropZone
+  - GasTubeZone
+  - GasTube
+  - MalMotarTrigger
+  - MainTubeTrigger
+  - MainTubeZone
+  - MainTube
+  - BunsenBurner
+  - CheckO2
+  - CheckO2MnO2
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - MgSparkle
+  - AnotherLayer
+  - Hands
+  - Interactive
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - Metals
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
