@@ -15,7 +15,7 @@ VR headset (Oculus, HTC Vive, or compatible device)
 Git (for cloning the repository)
 
 Clone the repository:
-git clone https://github.com/yourusername/your-repo.git
+git clone https://github.com/Askhat-start/ChemistryVR.git
 
 Open the project in Unity:
 Launch Unity Hub
